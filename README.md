@@ -1,15 +1,19 @@
-<h2>Hi! I'm Jiyeon 😁</h2>
+## 🎓 Education
+- 상명대학교(서울) 컴퓨터과학전공 (2022.03 ~ 2026.02)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JANGJEEYEON&show_icons=true&theme=graywhite)
+## 🚀 Activities
+- 멋쟁이사자처럼 13기 대표 & FE 운영진 (2025.03 ~ 2025.12)
+- 멋쟁이사자처럼 12기 FE (2024.03 ~ 2024.12)
+- 멋쟁이사자처럼 11기 FE (2023.03 ~ 2023.12)
 
-<h3>🛠 Tech Stack</h3>
-
-<h4>Frontend</h4>
-<a href="https://skillicons.dev">
+## 🛠 Tech Stack
+### Frontend
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
-</a>
+</p>
 
-<h4>Tools</h4>
-<a href="https://skillicons.dev">
+### Tools
+<p>
   <img src="https://skillicons.dev/icons?i=github,notion,figma,vercel" />
-</a>
+</p>
+
