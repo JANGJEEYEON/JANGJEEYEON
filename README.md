@@ -7,12 +7,9 @@
 - 멋쟁이사자처럼 11기 FE (2023.03 ~ 2023.12)
 
 ## 🛠 Tech Stack
-### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
 </p>
-
-### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=github,notion,figma,vercel" />
 </p>
