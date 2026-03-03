@@ -15,9 +15,10 @@
 </p>
 
 ## 🐾 Gitanimals
-<div align="center" width="1000">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/n03yij" width="450" height="300">
-    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="450" height="300"/>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US/guild/816609482789971033">
+    <img src="https://render.gitanimals.org/farms/n03yij" width="48%" />
+  </a><a href="https://www.gitanimals.org/en_US/guild/816609482789971033">
+    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="48%" />
   </a>
 </div>
