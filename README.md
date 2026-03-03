@@ -14,3 +14,10 @@
   <img src="https://skillicons.dev/icons?i=github,notion,figma,vercel" />
 </p>
 
+## 🐾 Gitanimals
+<div align="center" width="1000">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/n03yij" width="450" height="300">
+    <img src="https://render.gitanimals.org/guilds/816609482789971033/draw" width="450" height="300"/>
+  </a>
+</div>
